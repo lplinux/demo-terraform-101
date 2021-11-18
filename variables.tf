@@ -1,5 +1,5 @@
 variable "identity" {
-  description = "A unique name for your resources"
+  description = "A unique name for your resources."
 }
 
 variable "ami" {
